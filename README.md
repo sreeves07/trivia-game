@@ -515,6 +515,11 @@ Our app is starting to come together now. Let's add functionality so when we cli
     </details>
     <br/>
 
+At this point, your app should look like this:
+
+![Functioning Game](./images/functioning-game.png)
+
+
 **This is where you take over :sunglasses:**
 
         
