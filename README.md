@@ -64,7 +64,6 @@ The overall layout is pretty simple and now that we can see our sections, we can
     <summary>Spoiler</summary>
 
     ```html
-    <!-- Inside of the <header> tag -->
     <header>
         <h1>Trivia Game</h1>
     </header>
