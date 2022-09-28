@@ -71,7 +71,7 @@ The overall layout is pretty simple and now that we can see our sections, we can
     </details>
     <br/>
 
-6. Inside of your `main`, add **two** tags: a `div` w the class of *scoreboard*, and a `div` w the class of *questions*
+6. Inside of your `main`, add **two** tags: a `div` w the class of `scoreboard*`, and a `div` w the class of `questions`
     <details>
     <summary>Spoiler</summary>
 
@@ -118,8 +118,8 @@ At this point you should see three rows on your page like the sceenshot below:
 
 8. Now add a media query to change the grid from two rows, to two columns.
     - Add a media query that will update the styles for the `main` when the screen `width` is greater than `768px`.
-    - 8b: change the value for `grid-template-rows` to be `1fr`.
-    - 8c: add `grid-template-columns` and give it two columns w sizes: `1fr 3fr`.
+    - Change the value for `grid-template-rows` to be `1fr`.
+    - Add `grid-template-columns` and give it two columns w sizes: `1fr 3fr`.
     <details>
     <summary>Spoiler</summary>
 
